@@ -1,0 +1,23 @@
+payload:
+    - america.mirror.pkgbuild.com
+    - arch.mirror.constant.com
+    - arch.phinau.de
+    - archlinux.thaller.ws
+    - archlinux.uk.mirror.allworldit.com
+    - archlinux.za.mirror.allworldit.com
+    - asia.mirror.pkgbuild.com
+    - at.arch.mirror.kescher.at
+    - europe.mirror.pkgbuild.com
+    - ftp.sh.cvut.cz
+    - geo.mirror.pkgbuild.com
+    - london.mirror.pkgbuild.com
+    - md.mirrors.hacktegic.com
+    - mirror.cyberbits.eu
+    - mirror.moson.org
+    - mirror.osbeck.com
+    - mirror.pseudoform.org
+    - mirror.ufscar.br
+    - seoul.mirror.pkgbuild.com
+    - sydney.mirror.pkgbuild.com
+    - ping.archlinux.org
+    - aur.archlinux.org
